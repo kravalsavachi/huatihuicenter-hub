@@ -1,2 +1,14 @@
 # huatihuicenter-hub
-HTML page archive and documentation
+
+HTML 资料页存档
+
+本仓库用于保存页面发布产物，内容以实际文件为准。
+
+## 目录内容
+
+- 页面文件：发布后的 HTML
+- 说明文件：README.md
+
+## 维护方式
+
+发布程序会按配置写入文件，手动修改时请保留现有结构。
